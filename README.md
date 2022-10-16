@@ -8,15 +8,15 @@
 * Country: Russia
 * City: N.Novgorod
 ## Education
-will be later # Fix it
+will be later 
 ## Skills:
-###Office: 
-MS office (Word, Excel, PowePoint) MS Visio, MS Project, MS PowerBI, R7 Office, WPS Office, LibreOffice
-###OS: 
+### Office: 
+MS office (Word, Excel, PowePoint) MS Visio, MS Project, MS PowerBI, R7 Office, WPS Office, LibreOffice.
+### OS: 
 Windows Server 2008r2/2012R2, Linux: Ubuntu, CentOS, AstraLinux, RedOS. 
 ### VM: 
 VMware Sphere&ESXi, MS Hiper-V, Linux KVM, Docker(Portainer&Kubernetes).
-###Other: 
+### Other: 
 MS System Center (SCOM, SCCM, SCSM), MS Exchange 2010, Atlassian Jira&Confluence, python, powershell.
 ## Personal qualities:
 responsible, executive, resourceful, purposeful
